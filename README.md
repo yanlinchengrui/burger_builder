@@ -11,5 +11,5 @@ A React Burger Builder App...
 
 ## Screenshots
 
-!["Screenshot of the mobile app"](https://github.com/yanlinchengrui/burger_builder/blob/master/public/docs/burger.gif)
-!["Screenshot of the app"](https://github.com/yanlinchengrui/burger_builder/blob/master/public/docs/burger.png)
+!["Mobile"](https://github.com/yanlinchengrui/burger_builder/blob/master/docs/burger.gif)
+!["App"](https://github.com/yanlinchengrui/burger_builder/blob/master/docs/burger.png)
